@@ -19,3 +19,11 @@ Morphological operations (erosion, dilation)
 Image segmentation (region-based, clustering)
 
 Fourier Transform in image processing
+
+---
+
+### 👨‍💻 Author
+
+- Sai Srujitha Ajjarapu  
+  BT23ECI042
+
